@@ -29,18 +29,18 @@ Users can search for blog posts using keywords, making it easier to find specifi
 Each user has a profile page displaying their personal information and a list of all the blog posts they have published.<br>
 Users can edit their profile details, such as their bio and profile picture.<br>
 # Technologies Used<br>
-# Frontend:<br>
+Frontend:<br>
 
-# HTML/CSS/JavaScript: The structure and styling of the pages, along with dynamic behaviors, are handled using HTML, CSS, and JavaScript.<br>
-# Bootstrap: For responsive design and UI components like the navbar, buttons, and form elements.<br>
-# Backend:
+ HTML/CSS/JavaScript: The structure and styling of the pages, along with dynamic behaviors, are handled using HTML, CSS, and JavaScript.<br>
+Bootstrap: For responsive design and UI components like the navbar, buttons, and form elements.<br>
+ Backend:
 
-# Servlets: Used to handle HTTP requests, manage sessions, and implement core business logic.<br>
-# JSP (JavaServer Pages): For dynamic content generation and rendering data fetched from the database to the user.<br>
-# JDBC (Java Database Connectivity): To interact with the MySQL database, allowing CRUD operations on user accounts, posts, and comments.<br>
-# Database:
+ Servlets: Used to handle HTTP requests, manage sessions, and implement core business logic.<br>
+ JSP (JavaServer Pages): For dynamic content generation and rendering data fetched from the database to the user.<br>
+ JDBC (Java Database Connectivity): To interact with the MySQL database, allowing CRUD operations on user accounts, posts, and comments.<br>
+ Database:<br>
 
-# MySQL: The relational database used to store user information, blog posts, and comments.
+ MySQL: The relational database used to store user information, blog posts, and comments.
 
 # Clone the repository:
 
@@ -49,12 +49,12 @@ Copy code<br>
 git clone https://github.com/tapeshchavle/TechBlog
 # Setup the database:
 
-# Create a MySQL database named techblog.
-Import the provided SQL file (techblog.sql) located in the database/ directory.
-# Configure the project:<br>
+ Create a MySQL database named techblog.
+Import the provided SQL file (techblog.sql) located in the database/ directory.<br>
+ Configure the project:<br>
 
 Update the JDBC connection parameters (URL, username, password) in the DAO classes.<br>
-# Deploy the project:<br>
+ Deploy the project:<br>
 
 Deploy the project on a Tomcat server or any other servlet container.
 Access the application:<br>
