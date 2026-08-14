@@ -1,4 +1,4 @@
-# TechBlog Web Application
+ # TechBlog Web Application
 TechBlog is a dynamic web application built to serve as a platform for tech enthusiasts to share, explore, and comment on various technology-related articles. Users can create accounts, publish blog posts, read other users’ posts, and leave comments. The application emphasizes simplicity and responsiveness, making it accessible across different devices.
 
 # Features<br>
